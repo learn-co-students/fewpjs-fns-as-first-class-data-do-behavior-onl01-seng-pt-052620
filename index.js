@@ -8,6 +8,13 @@ function handleClick(e) {
 }
 
 /* End Given Code, don't edit above here...*/
+let time = "HH:MM"
+function greet(`12:00`) 
+  {return `Good Morning before ${12:00}`;
+}
 
-/* Write your implementation of greet() */
-/* Write your implementation of displayMessage() */
+function displayMessage() 
+
+function greet(`HH:MM`)
+
+function displayMessage() 
